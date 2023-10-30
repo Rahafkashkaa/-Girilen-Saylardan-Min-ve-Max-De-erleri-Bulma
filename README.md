@@ -27,7 +27,7 @@ public static void main(String[] args) {
            
         }
         if (number < min) {
-            min = number;
+            min = number; 
             
         }
 
